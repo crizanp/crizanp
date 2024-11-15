@@ -14,20 +14,6 @@ I'm a **JavaScript coder**, **React + Next.js developer**, **full-stack web deve
 
 ---
 
-### 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=crizanp&show_icons=true&theme=radical&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=crizanp&layout=compact&theme=radical&langs_count=6)
-
----
-
-### 🔥 Coding Streaks
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=crizanp&theme=radical)
-
----
-
 ### 👨‍💻 About Me
 I’m **Crijan Pokhrel**, Senior Web Developer at **IGH Digital**  
 🔹 Full-stack expert in **React JS**, **PHP**, and **JavaScript**  
