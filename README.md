@@ -43,8 +43,9 @@ I'm a passionate **Full-Stack Web Developer** and **Blockchain/AI Enthusiast** w
 [![Email](https://img.shields.io/badge/Email-8B0000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:srijanpokhrel1@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)](https://srijanpokhrel.com.np)
 
-## 🎵 Coding Soundtrack
-![Spotify Recently Played](https://spotify-recently-played-readme.vercel.app/api?user=YOUR_SPOTIFY_USERNAME)
+## 🎵 Currently Jamming To
+
+[![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=31rwtqefslxqida7dkozxqqu7doe&unique={date})](https://open.spotify.com/user/31rwtqefslxqida7dkozxqqu7doe)
 
 ## 📈 Contribution Graph
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=srijanpokhrel&theme=github)
@@ -53,3 +54,5 @@ I'm a passionate **Full-Stack Web Developer** and **Blockchain/AI Enthusiast** w
 ![Profile Views](https://komarev.com/ghpvc/?username=srijanpokhrel&color=blueviolet)
 
 ---
+
+⭐️ From [Crijan Pokhrel](https://github.com/srijanpokhrel)
