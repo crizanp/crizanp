@@ -23,15 +23,6 @@ I'm a passionate **Full-Stack Web Developer** and **Blockchain/AI Enthusiast** w
 ![Magento](https://img.shields.io/badge/Magento-F26322?style=for-the-badge&logo=magento&logoColor=white)
 ![Shopify](https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white)
 
-## 📊 GitHub Stats
-
-![Crijan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=srijanpokhrel&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=srijanpokhrel&layout=compact&theme=radical)
-
-## 🏆 GitHub Trophies
-![Trophies](https://github-profile-trophy.vercel.app/?username=srijanpokhrel&theme=radical&no-frame=true&margin-w=15)
-
 ## 🚀 Professional Journey
 
 ### Current
