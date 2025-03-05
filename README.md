@@ -43,9 +43,8 @@ I'm a passionate **Full-Stack Web Developer** and **Blockchain/AI Enthusiast** w
 [![Email](https://img.shields.io/badge/Email-8B0000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:srijanpokhrel1@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)](https://srijanpokhrel.com.np)
 
-## 🎵 Currently Jamming To
-
-[![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=31rwtqefslxqida7dkozxqqu7doe&unique={date})](https://open.spotify.com/user/31rwtqefslxqida7dkozxqqu7doe)
+## 🎵 Spotify Vibes
+![Spotify Recently Played](https://spotify-github-profile.kittinanx.com/api/view.svg?uid=5e8we1orf9j8kuqirqfttqk90&cover_image=true&theme=default&show_offline=true&background_color=000000&interchange=false&bar_color_cover=true)
 
 ## 📈 Contribution Graph
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=srijanpokhrel&theme=github)
