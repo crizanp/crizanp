@@ -53,5 +53,3 @@ I'm a passionate **Full-Stack Web Developer** and **Blockchain/AI Enthusiast** w
 ![Profile Views](https://komarev.com/ghpvc/?username=srijanpokhrel&color=blueviolet)
 
 ---
-
-⭐️ From [Crijan Pokhrel](https://github.com/srijanpokhrel)
